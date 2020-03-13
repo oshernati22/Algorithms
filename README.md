@@ -2,9 +2,15 @@
 
 graph builders & serchers implement in JAVA
 
-## Getting Started
+## how to build regular graph without wieght
+1. define new state("state name") (state=node).
+2. Add to each state the neighbors it leads to, with the function "addToNieboresList(STATE)".
+3. define new graphbuilder() ( for exmpale - | Builder buffergraph= new Graphbuilder();|)
+4. add all the state that you made to the graph builder with the function "addToGraph(State)".
+5. define new SearchableGraph( graphbuilder,state(the state we want to start with)).
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+###Congratulations you have a regular graph !
+
 
 ## Running the tests
 
