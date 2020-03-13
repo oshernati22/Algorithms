@@ -21,37 +21,22 @@ graph builders & serchers implement in JAVA
 ## How to run BFS on the  regular graph
 1. Define new searcher = Bfs(),for exmpale |Searcher Bfs=new Bfs();|.
 2. Use function search(SearchableGraph)- the function get searchable graph and print the distance of the shortest path from the start. state.
+
 3.For more exmpales please read the file "MainTrainBfs" line 10-35.
 
 ## How to run DFS on the  regular graph
 1. Define new searcher = Dfs(),for exmpale |Searcher Dfs=new Dfs();|.
 2. Use function search(SearchableGraph)- the function get searchable graph and print the start time ,end time and the father of each state in the shortest path from the start state.
+
 3.For more exmpales please read the file "DfsMainTrain" line 10-26.
 
 
-## Built With
+## Learn about the Algorithms
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
