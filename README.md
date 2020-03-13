@@ -33,13 +33,16 @@ graph builders & serchers implement in JAVA
 
 ## Learn about the Algorithms
 
-* [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) 
+* [DFS](https://en.wikipedia.org/wiki/Depth-first_search) 
+* [BELLMANFORD](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm) 
+* [DIJKSTRA](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) 
 
 
-## Acknowledgments
+## disclaimer
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* This project its just for practice and fun.
+* I am aware of the Code smells, these issues will be fixed as soon as possible (im working on it).
+* I intend to improve the project and add more serchers.
+
+ ***enjoy !!***
