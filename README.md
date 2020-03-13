@@ -10,7 +10,7 @@ graph builders & serchers implement in JAVA
 5. Define new SearchableGraph( graphbuilder,state(the state we want to start with)).
 6. For more exmpales please read the file "MainTrainBfs" line 10-32.
 
-**Congratulations you have a regular graph !**
+   **Congratulations you have a regular graph !**
 
 
 ## Running the tests
