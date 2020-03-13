@@ -9,7 +9,7 @@ graph builders & serchers implement in JAVA
 4. add all the state that you made to the graph builder with the function "addToGraph(State)".
 5. define new SearchableGraph( graphbuilder,state(the state we want to start with)).
 
-###Congratulations you have a regular graph !
+**Congratulations you have a regular graph !**
 
 
 ## Running the tests
