@@ -8,7 +8,7 @@ graph builders & serchers implement in JAVA
 3. define new graphbuilder() ( for exmpale - | Builder buffergraph= new Graphbuilder();|)
 4. add all the state that you made to the graph builder with the function "addToGraph(State)".
 5. define new SearchableGraph( graphbuilder,state(the state we want to start with)).
-
+6. for more exmpales please read the file "MainTrainBfs" line 10-32.
 **Congratulations you have a regular graph !**
 
 
