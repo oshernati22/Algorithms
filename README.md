@@ -6,7 +6,7 @@ graph builders & serchers implement in JAVA
 1. Define new state("state name") (state=node).
 2. Add to each state the neighbors it leads to, with the function "addToNieboresList(STATE)".
 3. Define new graphbuilder() ( for exmpale - | Builder buffergraph= new Graphbuilder();|).
-4. Add all the state that you made to the graph builder with the function "addToGraph(State)" (support in).
+4. Add all the state that you made to the graph builder with the function "addToGraph(State)" (support in flowing programing).
 5. Define new SearchableGraph( graphbuilder,state(the state we want to start with)).
 6. For more exmpales please read the file "MainTrainBfs" line 10-32 or "DfsMainTrain" lines 10-24.
 
@@ -39,7 +39,7 @@ graph builders & serchers implement in JAVA
 6. Define new graphbuilder() ( for exmpale - | Builder buffergraph= new Graphbuilder();|).
 7. Define new hashmap<String,State> for example |	HashMap<String , State> buffermap=new HashMap<String, State>();|.
 8. Add all the states with thier names to the map with put function | buffermap.put("S",S); |.
-9. Add all the state that you made to the graph builder with the function "addToGraph(State)" (support in).
+9. Add all the state that you made to the graph builder with the function "addToGraph(State)" (support in flowing programing).
 10.Define new SearchableGraph( graphbuilder,state(the state we want to start with),buffermap (the map with all the states)).
 11. For more exmpales please read the file "MainTrainDijkstra" line 10-49 or "MainTrainBellmanFord" lines 10-37.
 
