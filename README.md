@@ -10,7 +10,7 @@ graph builders & serchers implement in JAVA
 5. Define new SearchableGraph( graphbuilder,state(the state we want to start with)).
 6. For more exmpales please read the file "MainTrainBfs" line 10-32 or "DfsMainTrain" lines 10-24.
 
-   **Congratulations you have a regular graph !**
+   **Congratulations you have a regular graph !!**
 
 
 ## Regular graph functions 
@@ -43,7 +43,7 @@ graph builders & serchers implement in JAVA
 10.Define new SearchableGraph( graphbuilder,state(the state we want to start with),buffermap (the map with all the states)).
 11. For more exmpales please read the file "MainTrainDijkstra" line 10-49 or "MainTrainBellmanFord" lines 10-37.
 
-   **Congratulations you have a regular graph !**
+   **Congratulations you have a wieghted graph !!**
    
 ## Graph with wieghts functions
 1. printGraphWithEdges()- print the graph with wieghts.
@@ -74,7 +74,7 @@ graph builders & serchers implement in JAVA
 * [DIJKSTRA](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) 
 
 
-## disclaimer
+## Disclaimer
 
 * This project its just for practice and fun.
 * I am aware of the Code smells, these issues will be fixed as soon as possible (im working on it).
