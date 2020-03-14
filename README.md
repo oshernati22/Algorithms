@@ -22,13 +22,13 @@ graph builders & searchers implement in JAVA
 1. Define new searcher = Bfs(),for example |Searcher Bfs=new Bfs();|.
 2. Use function search(SearchableGraph)- the function get a searchable graph and print the distance of the shortest path from the start. state.
 
-3.For more examples please read the file "MainTrainBfs" line 10-35.
+3.For more examples please read the file "MainTrainBfs" line 10-35 and "BFS EXAMPLE.PNG".
 
 ## How to run DFS on the  regular graph
 1. Define new searcher = Dfs(),for example |Searcher Dfs=new Dfs();|.
 2. Use function search(SearchableGraph)- the function gets searchable graph and prints the start time , end time and the father of each state in the shortest path from the start state.
 
-3.For more examples please read the file "DfsMainTrain" line 10-26.
+3.For more examples please read the file "DfsMainTrain" line 10-26 and "DFS EXAMPLE.PNG".
 
 ## How to build graph with wieghts
 1. Define new arraylist of edges for exmpale |List<Edge> bufferlist=new ArrayList<Edge>();|.
@@ -57,13 +57,13 @@ graph builders & searchers implement in JAVA
 2. Use function search(SearchableGraph)- the function gets searchable weighted graph and prints the short distance from the start state to any state.
 
 
-3. For more exmpales please read the file "MainTrainBellmanFord" line 10-40.
+3. For more exmpales please read the file "MainTrainBellmanFord" line 10-40 and "BELLMAN EXAMPLE.PNG".
 
 ## How to run DIJKSTRA on the weighted graph
 1. Define new searcher = Dijkstra ,for example |Searcher dijkstra = new Dijkstra();|.
 2. Use function search(SearchableGraph)- the function gets searchable weighted graph and prints the short distance from the start state to any state.
 
-3. For more examples please read the file "MainTrainDijkstra" line 10-52.
+3. For more examples please read the file "MainTrainDijkstra" line 10-52 and "DIJKSTRA EXMPALE.PNG".
 
 
 ## Learn about the Algorithms
