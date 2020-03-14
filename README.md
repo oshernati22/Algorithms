@@ -59,7 +59,7 @@ graph builders & serchers implement in JAVA
 
 3. For more exmpales please read the file "MainTrainBellmanFord" line 10-40.
 
-## How to run BELLMANFORD on the whieghted graph
+## How to run DIJKSTRA on the whieghted graph
 1. Define new searcher = Dijkstra ,for exmpale |Searcher dijkstra = new Dijkstra();|.
 2. Use function search(SearchableGraph)- the function get searchable wieghted graph and print the short distance from start state to any state.
 
