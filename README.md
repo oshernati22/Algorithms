@@ -30,6 +30,15 @@ graph builders & serchers implement in JAVA
 
 3.For more exmpales please read the file "DfsMainTrain" line 10-26.
 
+## How to build regular graph with wieghts
+1. Define new arraylist of edges for exmpale |List<Edge> bufferlist=new ArrayList<Edge>();|.
+2. Add to the list new edges from one state according to your graph, every new edge get the | weight (int) |, | father (string) | and | child(string)|,
+for exmpale |bufferlist.add(new Edge(33, "S", "A"));|.
+3. Define new state("state name",list of edges that we made in 1,2 (bufferlist)) (state=node).
+4. Remove all the buffer list |bufferlist.removeAll(bufferlist);|.
+5. Do 2-4 it for each state in the graph.
+
+
 
 ## Learn about the Algorithms
 
